@@ -2,6 +2,9 @@
 
 This project was created as part of a school assignment to manage a movie rental database. The SQL code provided here includes functions, triggers, and procedures to create, update, and refresh detailed and summary tables.
 
+Business Summary:
+This project is about a DVD rental business that needs profit assessment. The chief financial officer needs a report on which store has been the most profitable over its lifetime. With the ability to refresh the data, quarterly. A summary of each stores profits can make his job a lot easier. This will aid in better understanding where they first need to focus their efforts and what could be potentially hurting the stores profits. This report will provide the data needed to aid in better profits in the future. Lastly, it can help evaluate whether a store is worth keeping or closing for a new location. A lifetime profits report can aid in that. It will also allow the CFO to check in on the stores profits to see if newly implemented business strategies have worked to increase profits and sales. 
+
 ## Summary of the Code
 
 ### Transformation Function
